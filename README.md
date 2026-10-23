@@ -3,20 +3,20 @@
 <img src="https://komarev.com/ghpvc/?username=fg-error&color=brightgreen" />
 <p/>
 <p align="center">
-<a href="https://github.com/fg-error"><img title="Author" src="https://img.shields.io/badge/Senna Bot-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://github.com/Dyvillexzz"><img title="Author" src="https://img.shields.io/badge/Xion Bot-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/fg-error?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/fg-error?label=Followers&style=social"></a>
-<a href="https://github.com/fg-error/senna-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/fg-error/senna-bot?&style=social"></a>
-<a href="https://github.com/fg-error/senna-bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/fg-error/senna-bot?style=social"></a>
-<a href="https://github.com/fg-error/senna-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/fg-error/senna-bot?label=Watching&style=social"></a>
+<a href="https://github.com/Dyvillexzz?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/fg-error?label=Followers&style=social"></a>
+<a href="https://github.com/Dyvillexzz"><img title="Stars" src="https://img.shields.io/https://github.com/Dyvillexzz/xion bot?&style=social"></a>
+<a href="https://github.com/Dyvillexzz/xion-bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Dybillexzz/xion-bot?style=social"></a>
+<a href="https://github.com/Dyvillexzz/Xion-bot/watchers"><img title="Watching" src="https://github.com/Dyvillexzz/watchers/fg-error/xion-bot?label=Watching&style=social"></a>
 </p>
 
 <h3 align="center">WHATSAPP BOT</h3>
 
 ***
 ### Información
-- Cambie número de dueño en [Config](https://github.com/fg-error/senna-bot/blob/main/config.js#L6)
+- Cambie número de dueño en [Config](https://github.com/Dyvillexzz/xion-bot/blob/main/config.js#L6)
 - 
 ### Ejemplo 
 En caso de duda, antes de instalar senna-bot, pruebe el bot aquí
