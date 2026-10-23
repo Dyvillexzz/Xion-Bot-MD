@@ -9,7 +9,7 @@
 <a href="https://github.com/Dyvillexzz?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/fg-error?label=Followers&style=social"></a>
 <a href="https://github.com/Dyvillexzz"><img title="Stars" src="https://img.shields.io/https://github.com/Dyvillexzz/xion bot?&style=social"></a>
 <a href="https://github.com/Dyvillexzz/xion-bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Dybillexzz/xion-bot?style=social"></a>
-<a href="https://github.com/Dyvillexzz/Xion-bot/watchers"><img title="Watching" src="https://github.com/Dyvillexzz/watchers/xion-bot?label=Watching&style=social"></a>
+<a href="https://github.com/Dyvillexzz/Xion-bot/watchers"><img title="Watching" src=""></a>
 </p>
 
 <h3 align="center">WHATSAPP BOT</h3>
